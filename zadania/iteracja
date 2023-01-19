@@ -1,0 +1,3 @@
+// 1. Największy wspólny dzielnik -> jeśli będzie ktoś próbował rekurencyjnie polecam Algorytm Euklidesa
+// 2. Sprawdzanie czy liczba jest pierwsza
+// 3. Najmniejsza wspólna wielokrotność
