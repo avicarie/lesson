@@ -3,3 +3,5 @@
 3. Funkcja, która zwraca średnią liczb z tablicy.
 4. Funkcja, która zwraca ilość wszystkich liczb nieparzystych z tablicy.
 5. Funkcje, która wypisuje wszystkie liczby podzielnie przez N z tablicy.
+6. Funkcja, która przyjmuje tablicę i n i policzy ilość wystąpień n w tej tablicy.
+7. Funkcja, która wypisze pierszą połowę tablicy od końca, a drugą normalnie. Prykładowo dla tablicy [1,2,3,4] -> 2 1 3 4
